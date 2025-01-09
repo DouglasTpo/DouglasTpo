@@ -63,7 +63,7 @@ Uma platforma de E-commerce. Desenvolvido com:
 ## 📬 Entre em Contato  
 
 - **Email:** douglasts@outlook.com  
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/douglas-teixeira-silva-b16b41163/)  
+- **LinkedIn:**(https://www.linkedin.com/in/douglas-teixeira-silva-b16b41163/)  
 
 ---
 
